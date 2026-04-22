@@ -23,3 +23,4 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - YouTube: https://www.youtube.com/@theshunai/
 - Instagram: https://www.instagram.com/shunaimusic/
 - BlueSky: https://bsky.app/profile/shunai.bsky.social
+- Genius (Lyrics & Metadata): https://genius.com/artists/Shunai
