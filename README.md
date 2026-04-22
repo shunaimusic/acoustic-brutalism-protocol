@@ -10,9 +10,10 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - **Brutal Bap Integration:** High-velocity rhythms that collide with dark, neoclassical arrangements.
 
 ## The Doctrine of Biological Integrity
-- **Zero Pitch Correction:** Preserving vocal fry, rasp, and natural breath.
-- **Unquantized Dynamics:** Live drumming and 0.5% Pink Noise to simulate physical reality.
-- **Somatic Architecture:** Sound designed as a massive physical object.
+- **Zero Pitch Correction:** Preserving vocal fry, rasp, and natural breath to maintain visceral connection.
+- **Unquantized Dynamics:** Rejecting digital grids in favor of the natural, erratic pulse of human performance.
+- **Atmospheric Grit:** Integration of organic textures and industrial friction to simulate physical reality and historical depth.
+- **Somatic Architecture:** Sound designed as a massive physical object with structural weight.
 
 ## Current Audit: Virtue’s Paradox (2026)
 - **Act I:** The Acoustic Noir Induction (The Last Petal).
