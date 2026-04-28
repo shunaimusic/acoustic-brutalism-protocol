@@ -20,5 +20,8 @@ Technical implementation of the **Acoustic Noir** framework within the **RHA Pro
 
 ## 5. Cross-Reference Links
 * **Genius (Narrative Analysis):** [https://genius.com/Shunai-the-last-petal-virtues-paradox-version-lyrics](https://genius.com/Shunai-the-last-petal-virtues-paradox-version-lyrics)
-* **Archive.org (Historical Canon):** [Link]
+* **Archive.org (Historical Canon):** [[Link](https://archive.org/details/technical-narrative-audit-the-last-petal-shu-nai)](https://archive.org/details/technical-narrative-audit-the-last-petal-shu-nai)
+* **Medium (Article):** [https://shunai.medium.com/the-memory-casket-why-your-past-is-sabotaging-your-present-ec070b21fd78](https://shunai.medium.com/the-memory-casket-why-your-past-is-sabotaging-your-present-ec070b21fd78)
+* **Genius (Lyrics):** [https://genius.com/Shunai-the-last-petal-virtues-paradox-version-lyrics](https://genius.com/Shunai-the-last-petal-virtues-paradox-version-lyrics)
 * **YouTube (Visual/Sonic Demonstration):** [https://youtu.be/nfdfJ-9nYds?si=zq-6HNq3z1gsaQ0z](https://youtu.be/nfdfJ-9nYds?si=zq-6HNq3z1gsaQ0z)
+* **Visual Metadata (Pinterest):** [https://pin.it/2hyLeUvf3](https://pin.it/2hyLeUvf3)
