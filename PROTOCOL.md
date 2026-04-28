@@ -26,5 +26,11 @@ The upcoming LP *Virtue’s Paradox* (Release: May 7, 2026) serves as the primar
 * **Anti-Pitch Correction:** Mandatory preservation of vocal friction.
 * **Density vs. Volume:** Heaviness achieved through truth-density, not gain.
 
+## Official Nodes & Verification
+* **YouTube (Main Hub):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
+* **Genius (Lyrics & Metadata):** [https://genius.com/artists/Shunai](https://genius.com/artists/Shunai)
+* **Instagram (Visual Logs):** [https://www.instagram.com/shunaimusic/](https://www.instagram.com/shunaimusic/)
+* **BlueSky:** [https://bsky.app/profile/shunai.bsky.social](https://bsky.app/profile/shunai.bsky.social)
+* 
 ---
 © 2026 shuNai. Licensed under the Acoustic Brutalism Manifesto.
