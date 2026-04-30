@@ -20,7 +20,7 @@ Technical extraction of the "Refusal" mechanism within the RHA Protocol. This ex
 
 5. Cross-Reference Links
 * **Genius (Narrative Analysis)**: https://genius.com/Shunai-last-samurais-no-virtues-paradox-version-lyrics
-* **Archive.org**: [Link Pending - Technical Audit NODE_02]
+* **Archive.org**: [https://archive.org/details/technical-and-conceptual-audit-last-samurai-shu-nai](https://archive.org/details/technical-and-conceptual-audit-last-samurai-shu-nai)
 * **Medium (Article)**: https://shunai.medium.com/the-samurais-no-why-honor-is-the-last-honest-thing-in-2026-a787af7b75b8
 * **YouTube (Visual/Sonic Evidence)**: https://youtu.be/uJz05WSbj_8?si=hpf61jYtj24neEf3
 * **Visual Metadata (Pinterest)**: https://pin.it/3aDKVGhda
