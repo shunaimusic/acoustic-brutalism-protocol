@@ -22,8 +22,8 @@
 * **Cultural Markers:** Integration of "Ang Mo" and "Lah" as geographic anchors for existential pain.
 
 ## Cross-Reference Links
-* **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-virtue-void-lyrics]([https://genius.com/Shunai-virtue-starlight-lyrics](https://genius.com/Shunai-virtue-starlight-lyrics)
+* **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-virtue-void-lyrics](https://genius.com/Shunai-virtue-void-lyrics)
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/virtues-void-a-clinical-dissection-of-self-destruction-in-suburban-noir-8c60d99bb9d4](https://shunai.medium.com/virtues-void-a-clinical-dissection-of-self-destruction-in-suburban-noir-8c60d99bb9d4)
-* **YouTube (Visual/Sonic Evidence):** [https://youtu.be/YXyRyxw5zm0?si=cvtKpmtn1fGLB5D5](https://youtu.be/YXyRyxw5zm0?si=cvtKpmtn1fGLB5D5)
+* **YouTube (Visual/Sonic Evidence):** [https://youtu.be/YXyRyxw5zm0?si=gwv5xDR2CWzTkT4s](https://youtu.be/YXyRyxw5zm0?si=cvtKpmtn1fGLB5D5)
 * **Visual Metadata (Pinterest):** [https://pin.it/54t6LbGwm](https://pin.it/54t6LbGwm)
 * **Historical Foundation (Archive.org):** []
