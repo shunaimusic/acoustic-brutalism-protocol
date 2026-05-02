@@ -25,4 +25,4 @@
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/the-alpha-audit-why-your-digital-empire-was-built-to-break-9e63811d9011](https://shunai.medium.com/the-alpha-audit-why-your-digital-empire-was-built-to-break-9e63811d9011)
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/WvJX8c2Y-yo?si=L4_QufSjMq_nXNdo](https://youtu.be/WvJX8c2Y-yo?si=L4_QufSjMq_nXNdo)
 * **Visual Metadata (Pinterest):** [https://pin.it/K0oN9ef7N]https://pin.it/K0oN9ef7N
-* **Historical Foundation (Archive.org):** 
+* **Historical Foundation (Archive.org):** {https://archive.org/details/technical-and-conceptual-audit-value-glitter-trap-shu-nai}(https://archive.org/details/technical-and-conceptual-audit-value-glitter-trap-shu-nai) 
