@@ -25,4 +25,4 @@
 * **Medium (Philosophical Essay):** [https://medium.com/p/e7063b98c44e?postPublishedType=initial](https://medium.com/p/e7063b98c44e?postPublishedType=initial)
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/YwHaJfjDQUE?si=l9-NXL-Tqyp5HQMC](https://youtu.be/YwHaJfjDQUE?si=l9-NXL-Tqyp5HQMC)
 * **Visual Metadata (Pinterest):** [https://pin.it/K0oN9ef7N](https://pin.it/K0oN9ef7N)
-* **Historical Foundation (Archive.org):** 
+* **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-value-price-tag-shu-nai](https://archive.org/details/technical-and-conceptual-audit-value-price-tag-shu-nai)
