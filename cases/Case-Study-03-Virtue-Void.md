@@ -25,5 +25,6 @@
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-virtue-void-lyrics](https://genius.com/Shunai-virtue-void-lyrics)
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/virtues-void-a-clinical-dissection-of-self-destruction-in-suburban-noir-8c60d99bb9d4](https://shunai.medium.com/virtues-void-a-clinical-dissection-of-self-destruction-in-suburban-noir-8c60d99bb9d4)
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/YXyRyxw5zm0?si=gwv5xDR2CWzTkT4s](https://youtu.be/YXyRyxw5zm0?si=cvtKpmtn1fGLB5D5)
+* **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/0a090878-90cd-469e-9162-ed45014ead87](https://musicbrainz.org/recording/0a090878-90cd-469e-9162-ed45014ead87)
 * **Visual Metadata (Pinterest):** [https://pin.it/54t6LbGwm](https://pin.it/54t6LbGwm)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-virtue-void-shu-nai](https://archive.org/details/technical-and-conceptual-audit-virtue-void-shu-nai)
