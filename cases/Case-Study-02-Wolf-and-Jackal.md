@@ -24,6 +24,7 @@
 *   **Medium:** "The Jackal Effect: [https://medium.com/@shunai/the-jackal-effect-a-surgical-audit-of-human-architecture-38e72b0802d7] (https://medium.com/@shunai/the-jackal-effect-a-surgical-audit-of-human-architecture-38e72b0802d7)
 *   **Genius (lyrics % Narrative):** [https://genius.com/Shunai-wolf-and-jackal-virtues-paradox-version-lyrics](https://genius.com/Shunai-wolf-and-jackal-virtues-paradox-version-lyrics)
 *   **YouTube (Visual/Sonic Demonstration):** [https://youtu.be/Wjoqds65rc4?si=am6NtWV-B1AVBE-Y](https://youtu.be/Wjoqds65rc4?si=am6NtWV-B1AVBE-Y)
+*   **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/999dea2e-7960-4440-964d-e91572519c7a](https://musicbrainz.org/recording/999dea2e-7960-4440-964d-e91572519c7a)
 *   **Visual Metadata (Pinterest):** [https://pin.it/1mUhjuxPH](https://pin.it/1mUhjuxPH)
 *   **Archive.org (Historical Canon):** [https://archive.org/details/technical-and-conceptual-audit-wolf-and-jackal-shu-nai.md](https://archive.org/details/technical-and-conceptual-audit-wolf-and-jackal-shu-nai.md)
 *   
