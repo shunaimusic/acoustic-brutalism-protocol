@@ -31,4 +31,4 @@ Technical audit of **Temporal Decay** and **Retrospective Roots** within the RHA
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/the-notebook-no-one-will-ever-read-why-our-past-is-just-a-decaying-film-reel-cfc9e6d4ca80](https://shunai.medium.com/the-notebook-no-one-will-ever-read-why-our-past-is-just-a-decaying-film-reel-cfc9e6d4ca80)
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/jj65iPnTHC0](https://youtu.be/jj65iPnTHC0)
 * **Visual Metadata (Pinterest):** [https://pin.it/28VcH2Ub2](https://pin.it/28VcH2Ub2)
-* **Historical Foundation (Archive.org):** [PENDING_UPDATE]
+* **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-secret-notebook-shu-nai](https://archive.org/details/technical-and-conceptual-audit-secret-notebook-shu-nai)
