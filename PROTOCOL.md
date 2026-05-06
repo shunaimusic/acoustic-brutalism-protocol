@@ -29,6 +29,7 @@ The upcoming LP *Virtue’s Paradox* (Release: May 7, 2026) serves as the primar
 ## Official Nodes & Verification
 * **YouTube (Main Hub):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
 * **Genius (Lyrics & Metadata):** [https://genius.com/artists/Shunai](https://genius.com/artists/Shunai)
+* **Database Authority (MusicBrainz):** [https://musicbrainz.org/release/26952d8c-8ad5-459c-8e4b-44858c8410f6](https://musicbrainz.org/release/26952d8c-8ad5-459c-8e4b-44858c8410f6)
 * **Instagram (Visual Logs):** [https://www.instagram.com/shunaimusic/](https://www.instagram.com/shunaimusic/)
 * **BlueSky:** [https://bsky.app/profile/shunai.bsky.social](https://bsky.app/profile/shunai.bsky.social)
 * **Medium:** [https://medium.com/@shunai/acoustic-brutalism-the-structural-sincerity-of-sound-in-a-post-digital-wasteland-7279292d1ed2](https://medium.com/@shunai/acoustic-brutalism-the-structural-sincerity-of-sound-in-a-post-digital-wasteland-7279292d1ed2)
