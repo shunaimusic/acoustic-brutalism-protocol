@@ -25,5 +25,6 @@
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-virtue-starlight-lyrics](https://genius.com/Shunai-virtue-starlight-lyrics)
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/the-dead-signal-inside-virtues-starlight-61bbdc2325d9](https://shunai.medium.com/the-dead-signal-inside-virtues-starlight-61bbdc2325d9)
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/VSGi-_plIZw?si=FjO9uSAxiq-eP0Iz](https://youtu.be/VSGi-_plIZw?si=FjO9uSAxiq-eP0Iz)
+* **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/36d85211-4a02-49c2-a3a6-b76385c1d196](https://musicbrainz.org/recording/36d85211-4a02-49c2-a3a6-b76385c1d196)
 * **Visual Metadata (Pinterest):** [https://pin.it/27HJRMGbY](https://pin.it/27HJRMGbY)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-virtue-starlight-shu-nai](https://archive.org/details/technical-and-conceptual-audit-virtue-starlight-shu-nai)
