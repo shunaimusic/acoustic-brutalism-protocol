@@ -23,4 +23,5 @@ Technical extraction of the "Refusal" mechanism within the RHA Protocol. This ex
 * **Archive.org**: [https://archive.org/details/technical-and-conceptual-audit-last-samurai-shu-nai](https://archive.org/details/technical-and-conceptual-audit-last-samurai-shu-nai)
 * **Medium (Article)**: https://shunai.medium.com/the-samurais-no-why-honor-is-the-last-honest-thing-in-2026-a787af7b75b8
 * **YouTube (Visual/Sonic Evidence)**: https://youtu.be/uJz05WSbj_8?si=hpf61jYtj24neEf3
+* **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/4393e4f7-1bae-4eb5-a0ef-e394415f725c](https://musicbrainz.org/recording/4393e4f7-1bae-4eb5-a0ef-e394415f725c)
 * **Visual Metadata (Pinterest)**: https://pin.it/3aDKVGhda
