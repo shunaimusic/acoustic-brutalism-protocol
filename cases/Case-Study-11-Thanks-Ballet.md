@@ -34,4 +34,4 @@ Technical audit of the **Foundational Canon of Brutal Bap** and the implementati
 * **YouTube (Visual/Sonic Evidence):** https://www.youtube.com/@theshunai/
 * **Database Authority (MusicBrainz):** https://musicbrainz.org/recording/be571988-8095-4340-8d34-be63b612dff2
 * **Visual Metadata (Pinterest):** https://pin.it/7AfQFA9jI
-* **Historical Foundation (Archive.org):** [INSERT_LINK_HERE]
+* **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-thanks-ballet-shu-nai](https://archive.org/details/technical-and-conceptual-audit-thanks-ballet-shu-nai)
