@@ -28,3 +28,4 @@
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/0a090878-90cd-469e-9162-ed45014ead87](https://musicbrainz.org/recording/0a090878-90cd-469e-9162-ed45014ead87)
 * **Visual Metadata (Pinterest):** [https://pin.it/54t6LbGwm](https://pin.it/54t6LbGwm)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-virtue-void-shu-nai](https://archive.org/details/technical-and-conceptual-audit-virtue-void-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/03-VIRTUE-VOID-lyrics.md](../lyrics/03-VIRTUE-VOID-lyrics.md)
