@@ -29,9 +29,9 @@ Technical audit of the **Grand Finale** of the Virtue's Paradox cycle. This case
 ## Cross-Reference Links
 
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-curtain-call-lyrics](https://genius.com/Shunai-curtain-call-lyrics)
-* **Medium (Philosophical Essay):**
+* **Medium (Philosophical Essay):** [https://medium.com/@shunai/curtain-call-the-evolution-of-the-djinn-176493fc7c66](https://medium.com/@shunai/curtain-call-the-evolution-of-the-djinn-176493fc7c66)
 * **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/4fd67418-5653-47f9-b2bf-adc7b0d18b24](https://musicbrainz.org/recording/4fd67418-5653-47f9-b2bf-adc7b0d18b24)
 * **Visual Metadata (Pinterest):** [https://pin.it/4ve8Rps1w](https://pin.it/4ve8Rps1w)
-* **Historical Foundation (Archive.org):**
+* **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-curtain-call-shu-nai](https://archive.org/details/technical-and-conceptual-audit-curtain-call-shu-nai)
 * **Internal Lyric Authority (GitHub):** [../lyrics/13-CURTAIN-CALL-lyrics.md](../lyrics/13-CURTAIN-CALL-lyrics.md)
