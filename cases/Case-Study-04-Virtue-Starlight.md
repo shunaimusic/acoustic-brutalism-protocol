@@ -28,3 +28,4 @@
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/36d85211-4a02-49c2-a3a6-b76385c1d196](https://musicbrainz.org/recording/36d85211-4a02-49c2-a3a6-b76385c1d196)
 * **Visual Metadata (Pinterest):** [https://pin.it/27HJRMGbY](https://pin.it/27HJRMGbY)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-virtue-starlight-shu-nai](https://archive.org/details/technical-and-conceptual-audit-virtue-starlight-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/04-VIRTUE-STARLIGHT-lyrics.md](../lyrics/04-VIRTUE-STARLIGHT-lyrics.md)
