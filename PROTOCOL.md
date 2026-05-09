@@ -34,6 +34,6 @@ The upcoming LP *Virtue’s Paradox* (Release: May 7, 2026) serves as the primar
 * **BlueSky:** [https://bsky.app/profile/shunai.bsky.social](https://bsky.app/profile/shunai.bsky.social)
 * **Medium:** [https://medium.com/@shunai/acoustic-brutalism-the-structural-sincerity-of-sound-in-a-post-digital-wasteland-7279292d1ed2](https://medium.com/@shunai/acoustic-brutalism-the-structural-sincerity-of-sound-in-a-post-digital-wasteland-7279292d1ed2)
 [https://medium.com/@shunai/the-rha-protocol-why-acoustic-brutalism-is-the-only-survival-kit-left-for-the-human-soul-in-2026-efde6af86f48](https://medium.com/@shunai/the-rha-protocol-why-acoustic-brutalism-is-the-only-survival-kit-left-for-the-human-soul-in-2026-efde6af86f48)
-* **Virtue's Paradox Lyrics:** [../lyrics/](../lyrics/)
+* **Virtue's Paradox Lyrics:** [./lyrics/](./lyrics/)
 ---
 © 2026 shuNai. Licensed under the Acoustic Brutalism Manifesto.
