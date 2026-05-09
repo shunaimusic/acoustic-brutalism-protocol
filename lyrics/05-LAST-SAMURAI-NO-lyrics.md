@@ -1,4 +1,4 @@
-# Lyrics: No (Last Samurai)
+# Lyrics: last Samurai's "No"
 **Project:** Acoustic Brutalism (The Architecture of Refusal)
 **Protocol:** RHA Standard
 **Case Study:** [Case-Study-05-Last-Samurai-No](../cases/Case-Study-05-Last-Samurai-No.md)
