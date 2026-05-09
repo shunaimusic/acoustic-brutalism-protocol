@@ -26,3 +26,4 @@ Technical implementation of the **Acoustic Noir** framework within the **RHA Pro
 * **YouTube (Visual/Sonic Demonstration):** [https://youtu.be/nfdfJ-9nYds?si=zq-6HNq3z1gsaQ0z](https://youtu.be/nfdfJ-9nYds?si=zq-6HNq3z1gsaQ0z)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/dd2f1b33-ab92-4b7b-a735-1a3e9b545548](https://musicbrainz.org/recording/dd2f1b33-ab92-4b7b-a735-1a3e9b545548)
 * **Visual Metadata (Pinterest):** [https://pin.it/2hyLeUvf3](https://pin.it/2hyLeUvf3)
+* **Internal Lyric Authority (GitHub):** [../lyrics/01-THE-LAST-PETAL-lyrics.md](../lyrics/01-THE-LAST-PETAL-lyrics.md)
