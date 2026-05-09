@@ -33,3 +33,4 @@ Technical audit of **Identity Interrogation** and the formal introduction of the
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/ef2ff1a0-3bc9-4c63-a9bc-9cd2e588f8b1](https://musicbrainz.org/recording/ef2ff1a0-3bc9-4c63-a9bc-9cd2e588f8b1)
 * **Visual Metadata (Pinterest):** [https://pin.it/5Z7STD2BM](https://pin.it/5Z7STD2BM)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-experiment-93-shu-nai](https://archive.org/details/technical-and-conceptual-audit-experiment-93-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/09-EXPERIMENT-93-lyrics.md](../lyrics/09-EXPERIMENT-93-lyrics.md)
