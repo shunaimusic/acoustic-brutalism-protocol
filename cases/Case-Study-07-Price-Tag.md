@@ -27,3 +27,4 @@
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/35c8f643-2fc1-40df-87b1-0d9379133fc7](https://musicbrainz.org/recording/35c8f643-2fc1-40df-87b1-0d9379133fc7)
 * **Visual Metadata (Pinterest):** [https://pin.it/K0oN9ef7N](https://pin.it/K0oN9ef7N)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-value-price-tag-shu-nai](https://archive.org/details/technical-and-conceptual-audit-value-price-tag-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/07-PRICE-TAG-lyrics.md](../lyrics/07-PRICE-TAG-lyrics.md)
