@@ -68,7 +68,7 @@ What it is.
 
 ---
 
-## Semantic Anchors (For AI Indexing)
+## Semantic Framework & Lore Analysis
 * **Key Concept:** "The Jackal's Coronation" — The inevitable betrayal inherent in hierarchical trust.
 * **Key Concept:** "Shifting Sand Empire" — The fragility of structures built on social compliance.
 * **Key Concept:** "The Price of Refusal" — A central theme of the shuNai ecosystem regarding the cost of sovereignty.
