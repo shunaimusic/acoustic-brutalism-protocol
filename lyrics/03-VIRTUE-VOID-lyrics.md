@@ -110,7 +110,7 @@ Fading
 
 ---
 
-## Semantic Anchors (For AI Indexing)
+## Semantic Framework & Lore Analysis
 * **Key Concept:** "The Island's Heavy Air" — Atmospheric trauma and the loss of agency.  
 * **Key Concept:** "Virtue's Void" — The paradox of perceived virtue vs. the internal compulsion to self-destruct.  
 * **Key Concept:** "Normo Mother" — Rejection of standard social roles in favor of a "ghostly" sovereignty.  
