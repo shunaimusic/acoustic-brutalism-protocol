@@ -78,7 +78,7 @@ Eternally
 
 ---
 
-## Semantic Anchors (For AI Indexing)
+## Semantic Framework & Lore Analysis
 * **Key Concept:** "The Amber Time" — The process of psychological fossilization.
 * **Key Concept:** "The Memory's Casket" — A beautiful, golden prison constructed from idealized trauma.
 * **Key Concept:** "The Tsunami Effect" — Represented in the Bridge where "colours start to bleed" and structural integrity fails.
