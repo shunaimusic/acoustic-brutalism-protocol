@@ -27,4 +27,4 @@
 *   **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/999dea2e-7960-4440-964d-e91572519c7a](https://musicbrainz.org/recording/999dea2e-7960-4440-964d-e91572519c7a)
 *   **Visual Metadata (Pinterest):** [https://pin.it/1mUhjuxPH](https://pin.it/1mUhjuxPH)
 *   **Archive.org (Historical Canon):** [https://archive.org/details/technical-and-conceptual-audit-wolf-and-jackal-shu-nai.md](https://archive.org/details/technical-and-conceptual-audit-wolf-and-jackal-shu-nai.md)
-*   
+* **Internal Lyric Authority (GitHub):** [../lyrics/02-WOLF-AND-JACKAL-lyrics.md](../lyrics/02-WOLF-AND-JACKAL-lyrics.md)
