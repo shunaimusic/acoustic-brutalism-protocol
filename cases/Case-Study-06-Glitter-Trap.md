@@ -26,4 +26,5 @@
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/WvJX8c2Y-yo?si=L4_QufSjMq_nXNdo](https://youtu.be/WvJX8c2Y-yo?si=L4_QufSjMq_nXNdo)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/dd4d9f48-8f96-4287-ab01-debd562f2224](https://musicbrainz.org/recording/dd4d9f48-8f96-4287-ab01-debd562f2224)
 * **Visual Metadata (Pinterest):** [https://pin.it/K0oN9ef7N]https://pin.it/K0oN9ef7N
-* **Historical Foundation (Archive.org):** {https://archive.org/details/technical-and-conceptual-audit-value-glitter-trap-shu-nai}(https://archive.org/details/technical-and-conceptual-audit-value-glitter-trap-shu-nai) 
+* **Historical Foundation (Archive.org):** {https://archive.org/details/technical-and-conceptual-audit-value-glitter-trap-shu-nai}(https://archive.org/details/technical-and-conceptual-audit-value-glitter-trap-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/06-GLITTER-TRAP-lyrics.md](../lyrics/06-GLITTER-TRAP-lyrics.md)
