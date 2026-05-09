@@ -28,6 +28,9 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - [Case Study 08: Secret Notebook](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-08-Secret-Notebook.md)
 - [Case Study 09: Experiment 93](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-09-Experiment-93.md)
 - [Case Study 10: …Two, Buckle My Shoe](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-10-Two-Buckle-My-Shoe.md)
+- [Case Study 11: Thanks, Ballet!](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-11-Thanks-Ballet.md)
+- [Case Study 12: The Label](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-12-The-Label.md)
+- [Case Study 13: Curtain Call](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-13-Curtain-Call.md)
 
 ## Foundational Assets: Brutal Bap Origin (EP)
 - [Case Study 11: Thanks, Ballet!](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-11-Thanks-Ballet.md)
