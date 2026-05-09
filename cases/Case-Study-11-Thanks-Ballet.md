@@ -35,3 +35,4 @@ Technical audit of the **Foundational Canon of Brutal Bap** and the implementati
 * **Database Authority (MusicBrainz):** https://musicbrainz.org/recording/be571988-8095-4340-8d34-be63b612dff2
 * **Visual Metadata (Pinterest):** https://pin.it/7AfQFA9jI
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-thanks-ballet-shu-nai](https://archive.org/details/technical-and-conceptual-audit-thanks-ballet-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/11-THANKS-BALLET-lyrics.md](../lyrics/11-THANKS-BALLET-lyrics.md)
