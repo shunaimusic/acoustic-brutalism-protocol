@@ -32,3 +32,4 @@ Technical audit of **Self-Destructive Loops** and the formal exploration of the 
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/cf6cbd44-8560-472b-9923-61861dd53496](https://musicbrainz.org/recording/cf6cbd44-8560-472b-9923-61861dd53496)
 * **Visual Metadata (Pinterest):** [https://pin.it/5ER1KsNYa](https://pin.it/5ER1KsNYa)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-two-buckle-my-shoe-shu-nai](https://archive.org/details/technical-and-conceptual-audit-two-buckle-my-shoe-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/10-TWO-BUCKLE-MY-SHOE-lyrics.md](../lyrics/10-TWO-BUCKLE-MY-SHOE-lyrics.md)
