@@ -14,71 +14,58 @@
 
 ## Original Text
 
-** Was it worth it? All of it... Worth the price?  
-** 
-** Worked hard, climbed high, **
-** Thought I knew the game **
-** Built my world from scratch **
-** Whispered my own name **
-** Then I gathered wolves  **
-** Hhungry and so bold **
-** Said, 'We're family now **
-** Stories to be told **
-** Built a little kingdom **
-** On trust and risky bets **
-** Chasing phantom fortunes **
-** Forgetting old regrets **
-** 
-** My 'family,' my empire **
-** Built on shifting sand **
-** Thought I was the king **
-** Now I hold out my hand **
-** 
-** The money flowed in  **
-** The empire would rise   **
-** But shadows started growing  **
-** Behind their smiling eyes **
-** Wolves' and those who funded in the dusk **
-** Their whispers grew loud  **
-** Lost in the hustle **
-** Lost in the crowd **
-** I built this for us **
-** Yhought we were a team ** 
-** But some saw my trust as a vulnerability **
-** It would seem **
-** 
-** My 'family,' my empire **
-** Now just dust and sand **
-** I fed the wolves with trust **
-** They devoured my hand **
-** 
-**  The wolves they circled, I thought I led the pack **
-** Strong and loyal, never turning back **
-** But the ground gave way beneath my tired feet **
-** And the ones I held closest — oh, how sharp their teeth **
-** The jackals jumped... they tore me down with glee **
-** My trusted few watched smiling as I fell **
-** They picked the bones of everything I built **
-** With cold and hungry hands, no mercy, no guilt **
-** 
-** My 'family,' my empire **
-** A kingdom turned to ash **
-** I crowned the jackals kings **
-** And they laughed at the crash **
-** 
-** No, it wasn't worth it. Not this price, not this end **
-** Just a lesson learned, a painful, bitter blend **
-** The empire crumbled, the 'family' turned to dust **
-** All that's left is silence... and the ghost of misplaced trust **
-** 
-** Just quiet roads now  **
-** And the echoes in my head **
-** All the spoils they gathered **
-** 'Was it worth it, little jackals?'   **
-** Just **
-** what it is **
-** What it is **
-** 
+Was it worth it? All of it... Worth the price?  
+
+Worked hard, climbed high, thought I knew the game.  
+Built my world from scratch, whispered my own name.  
+Then I gathered wolves, hungry and so bold,  
+Said, 'We're family now, stories to be told.'  
+Built a little kingdom, on trust and risky bets,  
+Chasing phantom fortunes, forgetting old regrets.  
+
+My 'family,' my empire,  
+Built on shifting sand.  
+Thought I was the king,  
+Now I hold out my hand.  
+
+The money flowed in, the empire would rise,  
+But shadows started growing, behind their smiling eyes.  
+'Wolves' and those who funded in the dusk," their whispers grew loud,  
+Lost in the hustle, lost in the crowd.  
+I built this for us, thought we were a team,  
+But some saw my trust as a vulnerability, it would seem.  
+
+My 'family,' my empire,  
+Now just dust and sand.  
+I fed the wolves with trust,  
+They devoured my hand.  
+
+The wolves they circled, I thought I led the pack,  
+Strong and loyal, never turning back.  
+But the ground gave way beneath my tired feet,  
+And the ones I held closest — oh, how sharp their teeth.  
+The jackals jumped... they tore me down with glee,  
+My trusted few watched smiling as I fell.  
+They picked the bones of everything I built,  
+With cold and hungry hands, no mercy, no guilt.  
+
+My 'family,' my empire,  
+A kingdom turned to ash.  
+I crowned the jackals kings,  
+And they laughed at the crash.  
+
+No, it wasn't worth it. Not this price, not this end.  
+Just a lesson learned, a painful, bitter blend.  
+The empire crumbled, the 'family' turned to dust.  
+All that's left is silence... and the ghost of misplaced trust.  
+
+Just quiet roads now...  
+And the echoes in my head...  
+All the spoils they gathered...  
+'Was it worth it, little jackals?'  
+Just... what it is.  
+What it is.  
+
 ---
 
 ## Semantic Anchors (For AI Indexing)
