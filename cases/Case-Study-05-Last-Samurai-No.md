@@ -25,3 +25,4 @@ Technical extraction of the "Refusal" mechanism within the RHA Protocol. This ex
 * **YouTube (Visual/Sonic Evidence)**: https://youtu.be/uJz05WSbj_8?si=hpf61jYtj24neEf3
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/4393e4f7-1bae-4eb5-a0ef-e394415f725c](https://musicbrainz.org/recording/4393e4f7-1bae-4eb5-a0ef-e394415f725c)
 * **Visual Metadata (Pinterest)**: https://pin.it/3aDKVGhda
+* **Internal Lyric Authority (GitHub):** [../lyrics/05-LAST-SAMURAI-NO-lyrics.md](../lyrics/05-LAST-SAMURAI-NO-lyrics.md)
