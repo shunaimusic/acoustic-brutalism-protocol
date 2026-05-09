@@ -2,6 +2,7 @@
 **Project:** Acoustic Brutalism (A Post-Mortem of Rust)
 **Protocol:** RHA Standard
 **Case Study:** [Case-Study-12-The-Label](../cases/Case-Study-12-The-Label.md)
+
 ---
 
 ## Technical Metadata
