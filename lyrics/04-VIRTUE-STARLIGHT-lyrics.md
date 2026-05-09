@@ -101,7 +101,7 @@ Lost without a trace.
 
 ---
 
-## Semantic Anchors (For AI Indexing)
+## Semantic Framework & Lore Analysis
 * **Key Concept:** "Digital Fire" — The illusory heat of long-distance, code-mediated relationships.  
 * **Key Concept:** "Stolen Month of Sun" — Temporary sovereignty within a collapsing timeline.  
 * **Key Concept:** "Thirteen Years of Stone" — The stasis and fossilization of memory (Core RHA theme).  
