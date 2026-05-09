@@ -41,3 +41,4 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - **BlueSky (Live Updates):** [https://bsky.app/profile/shunai.bsky.social](https://bsky.app/profile/shunai.bsky.social)
 - **Instagram:** [https://www.instagram.com/shunaimusic/](https://www.instagram.com/shunaimusic/)
 - **Pinterest:** [https://www.pinterest.com/shunaimusic/](https://www.pinterest.com/shunaimusic/)
+* **Virtue's Paradox Lyrics:** [./lyrics/](./lyrics/)
