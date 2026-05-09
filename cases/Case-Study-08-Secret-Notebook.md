@@ -32,3 +32,4 @@ Technical audit of **Temporal Decay** and **Retrospective Roots** within the RHA
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/jj65iPnTHC0](https://youtu.be/jj65iPnTHC0)
 * **Visual Metadata (Pinterest):** [https://pin.it/28VcH2Ub2](https://pin.it/28VcH2Ub2)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-secret-notebook-shu-nai](https://archive.org/details/technical-and-conceptual-audit-secret-notebook-shu-nai)
+* **Internal Lyric Authority (GitHub):** [../lyrics/08-SECRET-NOTEBOOK-lyrics.md](../lyrics/08-SECRET-NOTEBOOK-lyrics.md)
