@@ -28,9 +28,9 @@ Technical and conceptual audit of the **Terminal Post-Scriptum** of the Virtue's
 ## Cross-Reference Links
 
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-ps-mentol-spit-lyrics](https://genius.com/Shunai-ps-mentol-spit-lyrics)
-* **Medium (Philosophical Essay):** [Pending / Strategic Expansion]
+* **Medium (Philosophical Essay):** [https://medium.com/@shunai/p-s-mentol-spit-the-caustic-breath-of-survival-17d2718fbc1d](https://medium.com/@shunai/p-s-mentol-spit-the-caustic-breath-of-survival-17d2718fbc1d)
 * **YouTube (Visual/Sonic Evidence):** [https://youtu.be/im82LvmMU6Y](https://youtu.be/im82LvmMU6Y)
 * **Visual Metadata (Pinterest):** [https://pin.it/1sgHYw6d3](https://pin.it/1sgHYw6d3)
-* **Database Authority (MusicBrainz):** [Pending Server Maintenance]
+* **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/6bcee63a-4102-4eca-a262-5d2d029a3de1](https://musicbrainz.org/recording/6bcee63a-4102-4eca-a262-5d2d029a3de1)
 * **Historical Foundation (Archive.org):** [Link Pending]
 * **Internal Lyric Authority (GitHub):** [../lyrics/14-MENTOL-SPIT-lyrics.md](../lyrics/14-MENTOL-SPIT-lyrics.md)
