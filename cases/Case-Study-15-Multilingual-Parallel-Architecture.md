@@ -29,5 +29,5 @@ Technical audit of **Cross-Linguistic Semantic Mapping** and **Parallel Textual 
 * **Central Dataset (NotebookLM):** [https://notebooklm.google.com/notebook/520360be-b791-41ee-8759-cfc984d883b6](https://notebooklm.google.com/notebook/520360be-b791-41ee-8759-cfc984d883b6)
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/the-international-grid-of-refusal-why-acoustic-brutalism-speaks-five-languages-3f920337a814](https://shunai.medium.com/the-international-grid-of-refusal-why-acoustic-brutalism-speaks-five-languages-3f920337a814)
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/albums/Shunai/Virtues-paradox](https://genius.com/albums/Shunai/Virtues-paradox)
-* **Visual Metadata (Pinterest):** [[INSERT_PINTEREST_LINK_HERE](https://pin.it/4qNZsGr4T)]
+* **Visual Metadata (Pinterest):** (https://pin.it/4qNZsGr4T)
 * **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai](https://www.youtube.com/@theshunai)
