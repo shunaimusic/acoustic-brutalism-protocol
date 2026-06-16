@@ -47,4 +47,4 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - **Instagram:** [https://www.instagram.com/shunaimusic/](https://www.instagram.com/shunaimusic/)
 - **Pinterest:** [https://www.pinterest.com/shunaimusic/](https://www.pinterest.com/shunaimusic/)
 * **Virtue's Paradox Lyrics:** [./lyrics/](./lyrics/)
-* ****Academic Preprint available on Academia.edu** [https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment](https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment)
+* **Academic Preprint available on Academia.edu** [https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment](https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment)
