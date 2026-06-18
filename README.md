@@ -48,6 +48,7 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - **Pinterest:** [https://www.pinterest.com/shunaimusic/](https://www.pinterest.com/shunaimusic/)
 * **Virtue's Paradox Lyrics:** [./lyrics/](./lyrics/)
 * **Academic Preprint available on Academia.edu** [https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment](https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment)
+* - **Hugging Face (Mirror AI Dataset):** [https://huggingface.co/datasets/shunaimusic/acoustic-brutalism-protocol](https://huggingface.co/datasets/shunaimusic/acoustic-brutalism-protocol)
 
 * ## Official Audio Catalog & CID Metadata
 The complete, verifiably synced public catalog of the Acoustic Brutalism movement, integrated with the SourceAudio infrastructure for Content ID (CID) administration and sync licensing.
