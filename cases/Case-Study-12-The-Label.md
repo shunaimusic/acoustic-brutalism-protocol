@@ -30,7 +30,7 @@ Technical audit of the **Surgical Post-Mortem** of long-term domestic structures
 
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-the-label-lyrics](https://genius.com/Shunai-the-label-lyrics)
 * **Medium (Philosophical Essay):** [https://medium.com/@shunai/the-label-a-post-mortem-of-rust-743ec1bec2f4](https://medium.com/@shunai/the-label-a-post-mortem-of-rust-743ec1bec2f4)
-* **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
+* **YouTube (Visual/Sonic Evidence):** [https://youtu.be/4S7ZG1RLEds](https://youtu.be/4S7ZG1RLEds)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/6bcee63a-4102-4eca-a262-5d2d029a3de1](https://musicbrainz.org/recording/6bcee63a-4102-4eca-a262-5d2d029a3de1)
 * **Visual Metadata (Pinterest):** https://pin.it/2RADW8FXL
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-the-label-shu-nai](https://archive.org/details/technical-and-conceptual-audit-the-label-shu-nai)
