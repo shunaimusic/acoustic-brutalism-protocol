@@ -31,7 +31,7 @@ Technical audit of the **Foundational Canon of Brutal Bap** and the implementati
 
 * **Genius (Lyrical Deep-Dive):** https://genius.com/Shunai-thanks-ballet-lyrics
 * **Medium (Philosophical Essay):** https://shunai.medium.com/why-i-thanked-the-blade-the-birth-of-brutal-bap-bec4c2f50df6
-* **YouTube (Visual/Sonic Evidence):** https://www.youtube.com/@theshunai/
+* **YouTube (Visual/Sonic Evidence):** [https://youtu.be/FMJtdAbtrGM](https://youtu.be/FMJtdAbtrGM)
 * **Database Authority (MusicBrainz):** https://musicbrainz.org/recording/be571988-8095-4340-8d34-be63b612dff2
 * **Visual Metadata (Pinterest):** https://pin.it/7AfQFA9jI
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-thanks-ballet-shu-nai](https://archive.org/details/technical-and-conceptual-audit-thanks-ballet-shu-nai)
