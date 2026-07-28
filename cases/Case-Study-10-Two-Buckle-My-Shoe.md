@@ -28,7 +28,7 @@ Technical audit of **Self-Destructive Loops** and the formal exploration of the 
 
 * **Genius (Lyrical Deep-Dive):** [https://genius.com/Shunai-two-buckle-my-shoe-lyrics](https://genius.com/Shunai-two-buckle-my-shoe-lyrics)
 * **Medium (Philosophical Essay):** [https://shunai.medium.com/why-i-chose-the-poison-the-architecture-of-an-honest-wreckage-fe4aed44e924](https://shunai.medium.com/why-i-chose-the-poison-the-architecture-of-an-honest-wreckage-fe4aed44e924)
-* **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
+* **YouTube (Visual/Sonic Evidence):** [https://youtu.be/F1oBQzNY8x8](https://youtu.be/F1oBQzNY8x8)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/cf6cbd44-8560-472b-9923-61861dd53496](https://musicbrainz.org/recording/cf6cbd44-8560-472b-9923-61861dd53496)
 * **Visual Metadata (Pinterest):** [https://pin.it/5ER1KsNYa](https://pin.it/5ER1KsNYa)
 * **Historical Foundation (Archive.org):** [https://archive.org/details/technical-and-conceptual-audit-two-buckle-my-shoe-shu-nai](https://archive.org/details/technical-and-conceptual-audit-two-buckle-my-shoe-shu-nai)
