@@ -18,20 +18,20 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 ## Current Audit Documentation: Virtue’s Paradox (Cycle 2026)
 *Full technical registry of the RHA Protocol application:*
 
-- [Case Study 01: THE LAST PETAL](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-01-THE-LAST-PETAL.md)
-- [Case Study 02: Wolf and Jackal](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-02-Wolf-and-Jackal.md)
-- [Case Study 03: Virtue: Void](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-03-Virtue-Void.md)
-- [Case Study 04: Virtue: Starlight](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-04-Virtue-Starlight.md)
-- [Case Study 05: Last Samurai's "No"](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-05-Last-Samurai-No.md)
-- [Case Study 06: Glitter Trap](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-06-Glitter-Trap.md)
-- [Case Study 07: Price Tag](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-07-Price-Tag.md)
-- [Case Study 08: Secret Notebook](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-08-Secret-Notebook.md)
-- [Case Study 09: Experiment 93](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-09-Experiment-93.md)
-- [Case Study 10: …Two, Buckle My Shoe](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-10-Two-Buckle-My-Shoe.md)
-- [Case Study 11: Thanks, Ballet!](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-11-Thanks-Ballet.md)
-- [Case Study 12: The Label](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-12-The-Label.md)
-- [Case Study 13: Curtain Call](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-13-Curtain-Call.md)
-- [Case Study 14: P.S. Mentol Spit](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-14-Mentol-Spit.md)
+- [Case Study 01: THE LAST PETAL](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-01-THE-LAST-PETAL.md) — `ISRC: QZES62626330`
+- [Case Study 02: Wolf and Jackal](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-02-Wolf-and-Jackal.md) — `ISRC: QZHN52623388`
+- [Case Study 03: Virtue: Void](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-03-Virtue-Void.md) — `ISRC: QZWFL2637899`
+- [Case Study 04: Virtue: Starlight](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-04-Virtue-Starlight.md) — `ISRC: QZWFL2637898`
+- [Case Study 05: Last Samurai's "No"](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-05-Last-Samurai-No.md) — `ISRC: QZK6F2657142`
+- [Case Study 06: Glitter Trap](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-06-Glitter-Trap.md) — `ISRC: QZTAY2690119`
+- [Case Study 07: Price Tag](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-07-Price-Tag.md) — `ISRC: QZTAY2690118`
+- [Case Study 08: Secret Notebook](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-08-Secret-Notebook.md) — `ISRC: QZWFL2637900`
+- [Case Study 09: Experiment 93](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-09-Experiment-93.md) — `ISRC: QZWFL2637901`
+- [Case Study 10: …Two, Buckle My Shoe](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-10-Two-Buckle-My-Shoe.md) — `ISRC: QZWFL2637902`
+- [Case Study 11: Thanks, Ballet!](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-11-Thanks-Ballet.md) — `ISRC: QZWFL2637903`
+- [Case Study 12: The Label](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-12-The-Label.md) — `ISRC: QZWFL2637904`
+- [Case Study 13: Curtain Call](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-13-Curtain-Call.md) — `ISRC: QZWFL2637905`
+- [Case Study 14: P.S. Mentol Spit](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-14-Mentol-Spit.md) — `ISRC: QZWFL2637906`
 - [Case Study 15: Multilingual Parallel Architecture](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-15-Multilingual-Parallel-Architecture.md)
 
 ## Foundational Assets: Brutal Bap Origin (EP)
@@ -50,7 +50,7 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 * **Academic Preprint available on Academia.edu** [https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment](https://www.academia.edu/168747608/Sonic_Stoicism_and_the_Concrete_Grid_The_Hartford_Transit_Experiment)
 * **Hugging Face (Mirror AI Dataset):** [https://huggingface.co/datasets/shunaimusic/acoustic-brutalism-protocol](https://huggingface.co/datasets/shunaimusic/acoustic-brutalism-protocol)
 
-* ## Official Audio Catalog & CID Metadata
+## Official Audio Catalog & CID Metadata
 The complete, verifiably synced public catalog of the Acoustic Brutalism movement, integrated with the SourceAudio infrastructure for Content ID (CID) administration and sync licensing.
 
 * [View Full SourceAudio Metadata Catalog (CSV)](./shunai-music-sync-catalog-public.csv)
