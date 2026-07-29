@@ -18,11 +18,11 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 ## Current Audit Documentation: Virtue’s Paradox (Cycle 2026)
 *Full technical registry of the RHA Protocol application:*
 
-- [Case Study 01: THE LAST PETAL](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-01-THE-LAST-PETAL.md) — `ISRC: QZES62626330`
-- [Case Study 02: Wolf and Jackal](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-02-Wolf-and-Jackal.md) — `ISRC: QZHN52623388`
+- [Case Study 01: THE LAST PETAL](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-01-THE-LAST-PETAL.md) — `ISRC: QZZ7P2662758`
+- [Case Study 02: Wolf and Jackal](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-02-Wolf-and-Jackal.md) — `ISRC: QZZ7P2662759`
 - [Case Study 03: Virtue: Void](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-03-Virtue-Void.md) — `ISRC: QZWFL2637899`
 - [Case Study 04: Virtue: Starlight](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-04-Virtue-Starlight.md) — `ISRC: QZWFL2637898`
-- [Case Study 05: Last Samurai's "No"](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-05-Last-Samurai-No.md) — `ISRC: QZK6F2657142`
+- [Case Study 05: Last Samurai's "No"](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-05-Last-Samurai-No.md) — `ISRC: QZZ7P2662760`
 - [Case Study 06: Glitter Trap](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-06-Glitter-Trap.md) — `ISRC: QZTAY2690119`
 - [Case Study 07: Price Tag](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-07-Price-Tag.md) — `ISRC: QZTAY2690118`
 - [Case Study 08: Secret Notebook](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-08-Secret-Notebook.md) — `ISRC: QZWFL2637900`
