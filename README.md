@@ -40,7 +40,7 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 ## Current Audit Documentation: Devil Gaze EP (Cycle 2026)
 *Technical registry of Acoustic Noir & Cinematic Dark Pop architecture:*
 
-- [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `Single Release`
+- [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `Single Release`ISRC: QT6FG2613064
 
 ## Official Nodes
 - **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
