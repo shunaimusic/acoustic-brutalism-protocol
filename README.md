@@ -37,6 +37,11 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 ## Foundational Assets: Brutal Bap Origin (EP)
 - [Case Study 11: Thanks, Ballet!](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-11-Thanks-Ballet.md)
 
+## Current Audit Documentation: Devil Gaze EP (Cycle 2026)
+*Technical registry of Acoustic Noir & Cinematic Dark Pop architecture:*
+
+- [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `Single Release`
+
 ## Official Nodes
 - **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
 - **Archive.org (Immutable Registry):** [https://archive.org/details/@shunai](https://archive.org/details/@shunai)
