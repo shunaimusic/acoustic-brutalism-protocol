@@ -41,6 +41,7 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 *Technical registry of Acoustic Noir & Cinematic Dark Pop architecture:*
 
 - [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `ISRC: QT6FG2613064` `Single release`
+- [Case Study 17: Seesaw Over the Top](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-17-SEESAW-OVER-THE-TOP.md) — `ISRC: [Pending]` `Single release`
 
 ## Official Nodes
 - **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
