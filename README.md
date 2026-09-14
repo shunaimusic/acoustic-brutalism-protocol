@@ -46,7 +46,6 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - **Philosophical Essay (Medium):** [https://shunai.medium.com/the-anatomy-of-the-mirror-scoring-the-architecture-of-human-traps-861110a16e26](https://shunai.medium.com/the-anatomy-of-the-mirror-scoring-the-architecture-of-human-traps-861110a16e26)
 - **Lyrical Canon (Genius):** [https://genius.com/albums/Shunai/Devil-gaze](https://genius.com/albums/Shunai/Devil-gaze)
 - **Visual Asset (Pinterest):** [https://pin.it/1fdfdZ4zM](https://pin.it/1fdfdZ4zM)
-- 
 
 - [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `ISRC: QT6FG2613064` `Single release`
 - [Case Study 17: Seesaw Over the Top](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-17-SEESAW-OVER-THE-TOP.md) — `ISRC: [Pending]` `Single release`
