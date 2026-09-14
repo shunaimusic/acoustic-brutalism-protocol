@@ -39,6 +39,14 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 
 ## Current Audit Documentation: Devil Gaze EP (Cycle 2026)
 *Technical registry of Acoustic Noir & Cinematic Dark Pop architecture:*
+**EP Ecosystem & Cross-Platform Nodes:**
+- **Official Web Audit:** [https://www.shunaimusic.com/devil-gaze](https://www.shunaimusic.com/devil-gaze)
+- **Immutable Registry (Archive.org):** [https://archive.org/details/the-shu-nai-audit-2026-devil-gaze](https://archive.org/details/the-shu-nai-audit-2026-devil-gaze)
+- **Database Authority (MusicBrainz):** [https://musicbrainz.org/release/9bb584ee-abce-46bc-9d8f-d116aff49320](https://musicbrainz.org/release/9bb584ee-abce-46bc-9d8f-d116aff49320)
+- **Philosophical Essay (Medium):** [https://shunai.medium.com/the-anatomy-of-the-mirror-scoring-the-architecture-of-human-traps-861110a16e26](https://shunai.medium.com/the-anatomy-of-the-mirror-scoring-the-architecture-of-human-traps-861110a16e26)
+- **Lyrical Canon (Genius):** [https://genius.com/albums/Shunai/Devil-gaze](https://genius.com/albums/Shunai/Devil-gaze)
+- **Visual Asset (Pinterest):** [https://pin.it/1fdfdZ4zM](https://pin.it/1fdfdZ4zM)
+- 
 
 - [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `ISRC: QT6FG2613064` `Single release`
 - [Case Study 17: Seesaw Over the Top](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-17-SEESAW-OVER-THE-TOP.md) — `ISRC: [Pending]` `Single release`
