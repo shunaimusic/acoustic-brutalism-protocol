@@ -20,7 +20,7 @@ Technical implementation of the **Acoustic Noir** framework within the **RHA Pro
 
 ## 5. Cross-Reference Links
 * **Genius (Narrative Analysis):** [https://genius.com/Shunai-angels-weight-lyrics](https://genius.com/Shunai-angels-weight-lyrics)
-* **Archive.org (Historical Canon):** [Pending Release]
+* **Archive.org (Historical Canon):** [https://archive.org/details/technical-narrative-audit-angels-weight-shu-nai](https://archive.org/details/technical-narrative-audit-angels-weight-shu-nai)
 * **Medium (Article):** [https://shunai.medium.com/the-crown-that-snaps-the-neck-why-we-build-cages-out-of-musts-99392b6c42e9?postPublishedType=initial](https://shunai.medium.com/the-crown-that-snaps-the-neck-why-we-build-cages-out-of-musts-99392b6c42e9?postPublishedType=initial)
 * **YouTube (Visual/Sonic Demonstration):** [Pending Release]
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/8d11ade5-b9b5-4e05-a187-4cb9443a6a02](https://musicbrainz.org/recording/8d11ade5-b9b5-4e05-a187-4cb9443a6a02)
