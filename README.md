@@ -48,7 +48,7 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - **Visual Asset (Pinterest):** [https://pin.it/1fdfdZ4zM](https://pin.it/1fdfdZ4zM)
 
 - [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `ISRC: QT6FG2613064` `Single release`
-- [Case Study 17: Seesaw Over the Top](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-17-SEESAW-OVER-THE-TOP.md) — `ISRC: [Pending]` `Single release`
+- [Case Study 17: Seesaw Over the Top](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-17-SEESAW-OVER-THE-TOP.md) — `ISRC: QTA2U2603618` `Single release`
 - [Case Study 18: Angel's Weight](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-18-ANGELS-WEIGHT.md) — `ISRC: [Pending]`
 
 ## Official Nodes
