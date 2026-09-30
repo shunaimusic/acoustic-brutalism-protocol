@@ -20,7 +20,7 @@ Technical implementation of a structural anomaly within the transactional matrix
 
 ## 5. Cross-Reference Links
 * **Genius (Narrative Analysis):** [https://genius.com/Shunai-face-the-monsters-gaze-lyrics](https://genius.com/Shunai-face-the-monsters-gaze-lyrics)
-* **Archive.org (Historical Canon):** [Pending]
+* **Archive.org (Historical Canon):** [https://archive.org/details/technical-narrative-audit-face-the-monsters-gaze-shu-nai](https://archive.org/details/technical-narrative-audit-face-the-monsters-gaze-shu-nai)
 * **Medium (Article):** [https://shunai.medium.com/the-anatomy-of-an-anomaly-why-quiet-courage-breaks-the-system-dbf84e4c1ead](https://shunai.medium.com/the-anatomy-of-an-anomaly-why-quiet-courage-breaks-the-system-dbf84e4c1ead)
 * **YouTube (Visual/Sonic Demonstration):** [Pending Release]
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/ccef5468-efd8-41ad-9ef6-33c50743fcf3](https://musicbrainz.org/recording/ccef5468-efd8-41ad-9ef6-33c50743fcf3)
