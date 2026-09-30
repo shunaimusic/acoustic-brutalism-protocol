@@ -50,6 +50,7 @@ Unlike traditional cinematic scores, **Acoustic Noir** is built on:
 - [Case Study 16: The Devil Within](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-16-THE-DEVIL-WITHIN.md) — `ISRC: QT6FG2613064` `Single release`
 - [Case Study 17: Seesaw Over the Top](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-17-SEESAW-OVER-THE-TOP.md) — `ISRC: QTA2U2603618` `Single release`
 - [Case Study 18: Angel's Weight](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-18-ANGELS-WEIGHT.md) — `ISRC: [Pending]`
+- [Case Study 19: Face The Monster's Gaze](https://github.com/shunaimusic/acoustic-brutalism-protocol/blob/main/cases/Case-Study-19-FACE-THE-MONSTERS-GAZE.md) — `ISRC: [Pending]`
 
 ## Official Nodes
 - **YouTube (Visual/Sonic Evidence):** [https://www.youtube.com/@theshunai/](https://www.youtube.com/@theshunai/)
