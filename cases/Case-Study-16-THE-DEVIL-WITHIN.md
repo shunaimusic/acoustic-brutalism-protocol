@@ -23,7 +23,7 @@ Technical implementation of the **Acoustic Noir** framework within the **RHA Pro
 * **Genius (Single Architecture Manifesto):** [https://genius.com/albums/Shunai/The-devil-within](https://genius.com/albums/Shunai/The-devil-within)
 * **Archive.org (Historical Canon):** [https://archive.org/details/technical-narrative-audit-the-devil-within-shu-nai](https://archive.org/details/technical-narrative-audit-the-devil-within-shu-nai)
 * **Medium (Article):** [https://shunai.medium.com/the-architecture-of-a-velvet-trap-why-we-mistake-pendulums-for-freedom-086e0fece130](https://shunai.medium.com/the-architecture-of-a-velvet-trap-why-we-mistake-pendulums-for-freedom-086e0fece130)
-* **YouTube (Visual/Sonic Demonstration):** [Pending Release]
+* **YouTube (Visual/Sonic Demonstration):** [https://youtu.be/UaxU0l-QK9w](https://youtu.be/UaxU0l-QK9w)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/recording/504d54ac-bccd-4751-9074-c47825d49ebb](https://musicbrainz.org/recording/504d54ac-bccd-4751-9074-c47825d49ebb)
 * **Visual Metadata (Pinterest):** [https://pin.it/62sx9wvrW](https://pin.it/62sx9wvrW)
 * **Internal Lyric Authority (GitHub):** [Pending Release]
