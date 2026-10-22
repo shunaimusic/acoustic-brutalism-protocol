@@ -23,7 +23,7 @@ Technical implementation of the **Acoustic Brutalism** framework within the **RH
 * **Genius (Single Architecture Manifesto):** [https://genius.com/albums/Shunai/Seesaw-over-the-top](https://genius.com/albums/Shunai/Seesaw-over-the-top)
 * **Archive.org (Historical Canon):** [https://archive.org/details/technical-and-conceptual-audit-seesaw-over-the-top-shu-nai](https://archive.org/details/technical-and-conceptual-audit-seesaw-over-the-top-shu-nai)
 * **Medium (Article):** [https://shunai.medium.com/the-audio-mechanics-of-forced-adultification-inside-seesaw-over-the-top-09d8818ee6bc?postPublishedType=initial](https://shunai.medium.com/the-audio-mechanics-of-forced-adultification-inside-seesaw-over-the-top-09d8818ee6bc?postPublishedType=initial)
-* **YouTube (Visual/Sonic Demonstration):** [Pending Release]
+* **YouTube (Visual/Sonic Demonstration):** [https://youtu.be/cMnoi-RSjng](https://youtu.be/cMnoi-RSjng)
 * **Database Authority (MusicBrainz):** [https://musicbrainz.org/release-group/00347cfe-264d-499c-936f-932e60b67a02](https://musicbrainz.org/release-group/00347cfe-264d-499c-936f-932e60b67a02)
 * **Visual Metadata (Pinterest):** [https://pin.it/17cfAqh7V](https://pin.it/17cfAqh7V)
 * **Internal Lyric Authority (GitHub):** [Pending Release]
